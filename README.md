@@ -15,10 +15,6 @@ A simple and interactive music player web application built using HTML, CSS, and
 - **Dynamic Display:** Displays the currently playing song's title and artist.
 - **Accessible Design:** Fully accessible with ARIA labels for screen readers.
 
-## Demo
-
-### Input Section
-![Input Section](music_player.png)
 
 ## Setup and Usage
 
@@ -42,6 +38,9 @@ A simple and interactive music player web application built using HTML, CSS, and
 ├── styles.css    # Styling for the app
 ├── script.js     # JavaScript functionality
 ```
+
+## Demo
+![Music Player](music_player.png)
 
 ### `script.js`
 
