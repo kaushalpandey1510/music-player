@@ -17,7 +17,7 @@ A simple and interactive music player web application built using HTML, CSS, and
 
 ## Demo
 
-![Music Player Demo](music-player.png)
+![Music Player Demo](./music-player.png)
 
 ## Setup and Usage
 
